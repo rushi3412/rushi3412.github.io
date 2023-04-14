@@ -1,1 +1,59 @@
+.intro-text {
+  color: black;
+  text-align: center;
+  position: absolute;
+  top: 25%;
+  font-weight: bold;
+}
+
+.image-section {
+  height: 100vh;
+  background-image: url("./img/abs.png");
+  background-size: cover;
+  position: relative;
+}
+
+.blackBox {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.contact {
+  background-color: lightgrey;
+  color: rgb(9, 156, 149);
+}
+
+.aboutme {
+  background-color: lightgrey;
+  color: rgb(9, 156, 149);
+}
+
+.effects {
+  cursor: pointer;
+}
+.effects:hover {
+  background-color: lightblue;
+}
+
+.effects {
+  cursor: pointer;
+}
+.effects:hover {
+  background-color: lightblue;
+}
+
+.effects {
+  cursor: pointer;
+}
+.effects:hover {
+  background-color: lightblue;
+}
+
+.effects {
+  cursor: pointer;
+}
+.effects:hover {
+  background-color: lightblue;
+}
 
