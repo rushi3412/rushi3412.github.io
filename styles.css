@@ -8,7 +8,7 @@
 
 .image-section {
   height: 100vh;
-  background-image: url("./img/abs.png");
+  background-image: url("abs.png");
   background-size: cover;
   position: relative;
 }
